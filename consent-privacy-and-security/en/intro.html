@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <meta name="author" content="John, Yuan, and Maggie" />
+  <meta name="date" content="2018-04-14" />
+  <title>Montreal Cryptoparty</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" type="text/css" media="screen, projection, print"
+    href="https://www.w3.org/Talks/Tools/Slidy2/styles/slidy.css" />
+  <script src="https://www.w3.org/Talks/Tools/Slidy2/scripts/slidy.js"
+    charset="utf-8" type="text/javascript"></script>
+</head>
+<body>
+<div class="slide titlepage">
+  <h1 class="title">Montreal Cryptoparty</h1>
+  <p class="author">
+John, Yuan, and Maggie
+  </p>
+  <p class="date">April 14, 2018</p>
+</div>
+<div id="who-are-we" class="slide section level1">
+<h1>Who Are We</h1>
+<ul>
+<li>Nerds who care about people</li>
+</ul>
+<p><img src="fun%20pic%20here" /></p>
+</div>
+<div id="why-should-you-care" class="slide section level1">
+<h1>Why Should You Care?</h1>
+<ul>
+<li>Privacy is the right to consent</li>
+</ul>
+<blockquote>
+<p>“Privacy is the right to withdraw consent, to only provide information to the people you want to provide it to, when you want to provide it. Privacy is consent.</p>
+</blockquote>
+<p>– Sarah Jamie Lewis, <em>Queer Privacy</em></p>
+<ul>
+<li><strong>Autonomy/independence depends on consent</strong></li>
+<li><strong>Privacy depends on security</strong>; there is no privacy without security</li>
+<li>The proper use of <strong>encryption is the best way to guarantee security</strong>.</li>
+</ul>
+<p>So, an understanding of encryption is important for protecting yourself and your autonomy</p>
+</div>
+<div id="ive-done-nothing-wrong-so-ive-got-nothing-to-hide" class="slide section level1">
+<h1>“I’ve done nothing wrong so I’ve got nothing to hide”</h1>
+<ul>
+<li>Imagine if we didn’t use envelopes and all mail was written on postcards</li>
+<li><strong>Widespread use of encryption normalizes privacy and security</strong>…</li>
+<li>… and so it normalizes consent and autonomy</li>
+</ul>
+</div>
+<div id="okay-cool-but-what-is-encryption" class="slide section level1">
+<h1>Okay cool, but what is encryption?</h1>
+<ul>
+<li>Scrambling the contents of a message + generating a key that can unscramble it</li>
+<li>The only way to unscramble the message is by having/knowing/being the key</li>
+<li>The scrambled message (or <em>cipher</em>) should not give away anything about the original message (or <em>plaintext</em>)</li>
+</ul>
+</div>
+<div id="our-framework" class="slide section level1">
+<h1>Our Framework</h1>
+<h2 id="risk-assessment">Risk assessment</h2>
+<p>Who are you worried about, specifically?</p>
+<h2 id="harm-reduction">Harm reduction:</h2>
+<p>What can we do about it? What are the limitations of our defenses?</p>
+<h2 id="technical-guidance">Technical guidance</h2>
+<p>We’ll help you understand and use helpful tools</p>
+</div>
+<div id="risk-assessment-1" class="slide section level1">
+<h1>Risk assessment</h1>
+<h2 id="context">Context</h2>
+<ul>
+<li>Different people face different threats</li>
+<li>Adding context can keep us focused and prevent getting overwhelmed</li>
+</ul>
+<h2 id="threat-modeling">Threat modeling</h2>
+<ul>
+<li><strong>Who</strong> might wish to cause you harm?</li>
+<li><strong>How</strong> would they go about doing it?</li>
+<li><strong>What can you do</strong> to stop them?</li>
+</ul>
+</div>
+<div id="who-might-cause-us-harm" class="slide section level1">
+<h1>Who might cause us harm?</h1>
+<h2 id="examples-of-malicious-actors">Examples of malicious actors</h2>
+<ul>
+<li>An ex-partner</li>
+<li>The cops</li>
+<li>A parent</li>
+<li>A scammer</li>
+<li>A thief</li>
+<li>Corporations</li>
+<li>Governments</li>
+</ul>
+</div>
+<div id="harm-reduction---low-hanging-fruit" class="slide section level1">
+<h1>Harm reduction - Low Hanging Fruit</h1>
+<h2 id="how-digital-attacks-actually-work">How digital attacks actually work</h2>
+<ul>
+<li>Attackers will <strong>always</strong> try the easiest and/or cheapest method of attack</li>
+<li>Security works by making things more difficult and/or expensive for your attacker</li>
+</ul>
+<h2 id="examples-of-low-hanging-fruit">Examples of low hanging fruit:</h2>
+<ul>
+<li>A short, easy to guess password</li>
+<li>A password that is reused everywhere</li>
+<li>Personal data on social media</li>
+<li>Private data that you give them, e.g. device passwords, sexy photos</li>
+</ul>
+</div>
+<div id="technical-guidance---disclaimer" class="slide section level1">
+<h1>Technical guidance - disclaimer</h1>
+<h2 id="your-tools-are-only-as-good-as-you-are"><strong>Your Tools Are Only As Good As You Are</strong></h2>
+<p>No app can protect you if you give away your password.</p>
+<p>Info out in the world is basically impossible to regain control of.</p>
+<p>Always take care to prevent info getting out in the first place.</p>
+</div>
+<div id="technical-guidance-1" class="slide section level1">
+<h1>Technical guidance</h1>
+<h2 id="security-planner">Security Planner</h2>
+<ul>
+<li>Gives personalized security device based on your threat model</li>
+<li>https://securityplanner.org/</li>
+</ul>
+<h2 id="encrypted-messaging">Encrypted messaging!</h2>
+<ul>
+<li>Ideally: <strong>Signal</strong></li>
+<li>Less ideal: WhatsApp, Telegram</li>
+<li>Never use: SMS/MMS (at least for private chats)</li>
+</ul>
+<h2 id="passphrase-managers">Passphrase managers!</h2>
+<ul>
+<li>KeePass XC, others</li>
+</ul>
+<h2 id="factor-authentication">2-Factor Authentication!</h2>
+<ul>
+<li>Makes it much harder for an attacker to get into your account with just a password</li>
+<li>Enable it on at least your email and social media accounts</li>
+</ul>
+<h2 id="stick-around-and-well-help-you-get-set-up">Stick around and we’ll help you get set-up!</h2>
+</div>
+</body>
+</html>

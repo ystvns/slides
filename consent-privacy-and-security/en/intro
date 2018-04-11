@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="John, Yuan, and Maggie">
+  <meta name="dcterms.date" content="2018-04-14">
+  <title>Montreal Cryptoparty</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="reveal.js/css/reveal.css">
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="reveal.js/css/theme/black.css" id="theme">
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide">
+  <h1 class="title">Montreal Cryptoparty</h1>
+  <p class="author">John, Yuan, and Maggie</p>
+  <p class="date">April 14, 2018</p>
+</section>
+
+<section id="who-are-we" class="slide level1">
+<h1>Who Are We</h1>
+<ul>
+<li>Nerds who care about people</li>
+</ul>
+<p><img data-src="fun%20pic%20here" /></p>
+</section>
+<section id="why-should-you-care" class="slide level1">
+<h1>Why Should You Care</h1>
+<blockquote>
+<p>Privacy is the right to consent. Privacy is the right to withdraw consent, to only provide information to the people you want to provide it to, when you want to provide it. Privacy is consent. <em>Sarah Jamie Lewis, “Queer Privacy”</em></p>
+</blockquote>
+<ul>
+<li>Autonomy/independence depend on consent</li>
+<li>Privacy depends on security; there is no privacy without security</li>
+<li>The proper use of encryption is the best way to guarantee security</li>
+</ul>
+<p>So, an understanding of encryption is important for protecting yourself and your autonomy</p>
+</section>
+<section id="ive-done-nothing-wrong-so-ive-got-nothing-to-hide" class="slide level1">
+<h1>“I’ve done nothing wrong so I’ve got nothing to hide”</h1>
+<ul>
+<li>Imagine if we didn’t use envelopes and all mail was written on postcards</li>
+<li>Widespread use of encryption normalizes privacy and security…</li>
+<li>… and so it normalizes consent and autonomy</li>
+</ul>
+</section>
+<section id="okay-cool-but-what-is-encryption" class="slide level1">
+<h1>Okay cool, but what is encryption?</h1>
+<ul>
+<li>Generating a ‘key’ and scrambling the contents of a message</li>
+<li>The only way to unscramble the message is by having/knowing/being the key</li>
+<li>The scrambled message (or “cipher”) should not give away anything about the original message (or “plaintext”)</li>
+</ul>
+</section>
+<section id="our-framework" class="slide level1">
+<h1>Our Framework</h1>
+<ul>
+<li>Risk assessment: who are you worried about, specifically?</li>
+<li>Harm reduction: what can we do about it? what are the limitations of our defenses?</li>
+<li>Technical guidance: we’ll help you understand and use helpful tools</li>
+</ul>
+</section>
+<section id="risk-assessment" class="slide level1">
+<h1>Risk assessment</h1>
+<h2 id="context">Context</h2>
+<ul>
+<li>Different people face different threats</li>
+<li>Adding context can keep us focused and prevent getting overwhelmed</li>
+</ul>
+<h2 id="threat-modeling">Threat modeling</h2>
+<ul>
+<li>Who might wish to cause you harm?</li>
+<li>How would they go about doing it?</li>
+<li>What can you do to stop them?</li>
+</ul>
+</section>
+<section id="malicious-actors-a-few-anecdotes-and-thought-experiments" class="slide level1">
+<h1>Malicious actors; a few anecdotes and thought experiments</h1>
+<ul>
+<li>The ex-boyfriend</li>
+<li>The cops</li>
+<li>The parent</li>
+<li>The scammer</li>
+<li>The thief</li>
+</ul>
+</section>
+<section id="harm-reduction---low-hanging-fruit" class="slide level1">
+<h1>Harm reduction - Low Hanging Fruit</h1>
+<ul>
+<li>Attackers will <strong>always</strong> try the easiest and/or cheapest method of attack</li>
+<li>Security works by making things more difficult and/or expensive for your attacker</li>
+</ul>
+<p>Examples of low hanging fruit: - A short, easy to guess password - A password that is reused everywhere - Personal data on social media - Private data that you give them, e.g. device passwords, sexy photos</p>
+</section>
+<section id="technical-guidance" class="slide level1">
+<h1>Technical guidance</h1>
+<p>Encrypted messaging! - Ideally: Signal - Less ideal: WhatsApp, Telegram - Never use: SMS/MMS (at least for private chats)</p>
+<p>Passphrase managers! - KeePass XC, others</p>
+<p>2-Factor Authentication! - At least on your email and social media accounts</p>
+</section>
+<section id="discussion" class="slide level1">
+<h1>Discussion?</h1>
+</section>
+<section id="stick-around-and-well-help-you-get-set-up" class="slide level1">
+<h1>Stick around and we’ll help you get set-up!</h1>
+</section>
+    </div>
+  </div>
+
+  <script src="reveal.js/lib/js/head.min.js"></script>
+  <script src="reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
+          { src: 'reveal.js/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>
