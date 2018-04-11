@@ -1,4 +1,4 @@
-# Montreal CryptoParty Slides
+# CryptoParty Slides (for Marginalized Groups and Their Threat Models)
 
 ## Description
 
