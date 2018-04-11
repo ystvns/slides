@@ -40,7 +40,7 @@ So, an understanding of encryption is important for protecting yourself and your
 
 * Who are you worried about, specifically?
 
-## Harm reduction:
+## Harm reduction
 
 * What can we do about it?
 * What are the limitations of our defenses?
@@ -81,7 +81,7 @@ So, an understanding of encryption is important for protecting yourself and your
 - Attackers will **always** try the easiest and/or cheapest method of attack
 - Security works by making things more difficult and/or expensive for your attacker
 
-## Examples of low hanging fruit:
+## Examples of low hanging fruit
 
 - A short, easy to guess password
 - A password that is reused everywhere
