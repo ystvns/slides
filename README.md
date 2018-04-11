@@ -1,10 +1,10 @@
-# CryptoParty Slides (for Marginalized Groups and Their Threat Models)
+# Social Justice CryptoParty Slides
 
 ## Description
 
 This repository follows the spirit of [Cryptoparty/slides](https://github.com/cryptoparty/slides). We are using their format and tools outlined there and hope to achieve the same ends -- creating a universal set of slides to introduce cryptography concepts at cryptoparties. 
 
-Our cryptoparties emphasize social justice and are targeted toward marginalized groups and the problems they face. As such, the content tends to be more niche and pragmatic than introductions to cryptography usually are. For slides that are more generic and academic, we encourage you to visit the parent repo.
+Our cryptoparties are targeted primarily toward marginalized groups and their problems, though is also intended for lawyers, technicians, and others who wish to learn more about applied cryptography in the context of social justice. As such, the content tends to be more niche and pragmatic than introductions to cryptography usually are. For slides that are more generic and academic, we encourage you to visit the parent repo.
 
 All slides should be considered as licensed under a **CC 0 Public Domain** license. All source code is available under a **GPLv3** license. 
 
