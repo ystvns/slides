@@ -1,12 +1,12 @@
-# CryptoParty Slides
+# Montreal CryptoParty Slides
 
 ## Description
 
-An attempt to create a universal basic set of presentation slides to help teach basic conepts at Cryptoparties.
+The slides used in our presentations.
 
 ## Layout
 
-We are trying to follow a convention to make navigation easier:
+We are following the convention from the [Cryptoparty/slides](https://github.com/cryptoparty/slides) repo. To make navigation easier the directories are organized as follows:
 
     slides/<topic>/<language>
 
