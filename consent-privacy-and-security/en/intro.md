@@ -38,16 +38,16 @@ So, an understanding of encryption is important for protecting yourself and your
 
 ## Risk assessment
 
-* Who are you worried about, specifically?
+- Who are you worried about, specifically?
 
 ## Harm reduction
 
-* What can we do about it?
-* What are the limitations of our defenses?
+- What can we do about it?
+- What are the limitations of our defenses?
 
 ## Technical guidance
 
-* We'll help you understand and use helpful tools
+- We'll help you understand and use helpful tools
 
 # Risk assessment
 
@@ -67,6 +67,8 @@ So, an understanding of encryption is important for protecting yourself and your
 ## Sticky Note exercise!
 
 # Who might cause us harm?
+
+![phishing psa](https://img.youtube.com/vi/GF_oRIP_Jok/0.jpg)](https://www.youtube.com/watch?v=GF_oRIP_Jok "phishing psa (1996)")
 
 ## Examples of malicious actors
 
@@ -98,21 +100,18 @@ So, an understanding of encryption is important for protecting yourself and your
 ## **Your Tools Are Only As Good As You Are**
 
 - For example, no app can protect you if you give away your password
-
 - Info out in the world is basically impossible to regain control of
-
 - Always take care to prevent info getting out in the first place
-
 - Offline stuff matters too! 
 
 # Technical guidance
 
 ## Security Planner & Surveillance Self-Defense
 
-* Security Planner gives personalized security device based on your threat model
-* https://securityplanner.org/
-* Surveillance Self Defense has basic info and helpful tool guides for safer online commmunication
-* https://ssd.eff.org/
+- Security Planner gives personalized security device based on your threat model
+- https://securityplanner.org/
+- Surveillance Self Defense has basic info and helpful tool guides for safer online commmunication
+- https://ssd.eff.org/
 
 ## Encrypted messaging!
 
