@@ -64,6 +64,10 @@ So, an understanding of encryption is important for protecting yourself and your
 
 # Who might cause us harm?
 
+## Sticky Note exercise!
+
+# Who might cause us harm?
+
 ## Examples of malicious actors
 
 - An ex-partner
@@ -80,23 +84,26 @@ So, an understanding of encryption is important for protecting yourself and your
 
 - Attackers will **always** try the easiest and/or cheapest method of attack
 - Security works by making things more difficult and/or expensive for your attacker
+- It's not all about computers, e.g. _social engineering_
 
 ## Examples of low hanging fruit
 
-- A short, easy to guess password
+- A short, easy to guess password on your accounts or devices (or not having one... lol)
 - A password that is reused everywhere
-- Personal data on social media
+- Personal data on social media (including games and quizzes!)
 - Private data that you give them, e.g. device passwords, sexy photos
 
 # Technical guidance - disclaimer
 
 ## **Your Tools Are Only As Good As You Are**
 
-No app can protect you if you give away your password.
+- For example, no app can protect you if you give away your password
 
-Info out in the world is basically impossible to regain control of.
+- Info out in the world is basically impossible to regain control of
 
-Always take care to prevent info getting out in the first place.
+- Always take care to prevent info getting out in the first place
+
+- Offline stuff matters too! 
 
 # Technical guidance
 
