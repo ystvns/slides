@@ -6,7 +6,7 @@
 
 - Nerds who care about people
 
-![](fun pic here)
+[![Geek Speak](https://imgur.com/a/JsNnD)](https://vimeo.com/251712235/631f4c6674 "Click me!")
 
 # Why Should You Care?
 
