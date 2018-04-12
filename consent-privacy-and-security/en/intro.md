@@ -107,10 +107,12 @@ So, an understanding of encryption is important for protecting yourself and your
 
 # Technical guidance
 
-## Security Planner
+## Security Planner & Surveillance Self-Defense
 
-* Gives personalized security device based on your threat model
+* Security Planner gives personalized security device based on your threat model
 * https://securityplanner.org/
+* Surveillance Self Defense has basic info and helpful tool guides for safer online commmunication
+* https://ssd.eff.org/
 
 ## Encrypted messaging!
 
