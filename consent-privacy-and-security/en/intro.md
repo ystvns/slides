@@ -100,10 +100,12 @@ Always take care to prevent info getting out in the first place.
 
 # Technical guidance
 
-## Security Planner
+## Security Planner & Surveillance Self-Defense
 
-* Gives personalized security device based on your threat model
+* Security Planner gives personalized security device based on your threat model
 * https://securityplanner.org/
+* Surveillance Self Defense has basic info and helpful tool guides for safer online commmunication
+* https://ssd.eff.org/
 
 ## Encrypted messaging!
 
