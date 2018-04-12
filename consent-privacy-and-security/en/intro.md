@@ -68,6 +68,8 @@ So, an understanding of encryption is important for protecting yourself and your
 
 # Who might cause us harm?
 
+![phishing psa](https://img.youtube.com/vi/GF_oRIP_Jok/0.jpg)](https://www.youtube.com/watch?v=GF_oRIP_Jok "phishing psa (1996)")
+
 ## Examples of malicious actors
 
 - An ex-partner
